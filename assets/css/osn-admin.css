@@ -1,0 +1,4 @@
+.osn-send-test-notification.processing {
+  opacity: .5!important;
+  cursor: not-allowed;
+}
